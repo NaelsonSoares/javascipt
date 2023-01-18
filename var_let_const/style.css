@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+background-color: rgba(126, 126, 248, 0.301);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 300px;
+}
