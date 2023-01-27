@@ -1,0 +1,5 @@
+
+
+
+let abacaxi = ""
+typeof abacaxi
