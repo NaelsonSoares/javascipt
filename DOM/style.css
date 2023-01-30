@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: rgb(207, 207, 207);
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 3em;
+    margin-top: 20px;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+}
+#container {
+    text-align: center;
+}
+#container button {
+    width: 20px;
+    font-size: 15pt;
+    border-radius: 50%;
+    border: 1px solid rgb(250, 5, 5);
+    background-color: rgb(248, 188, 188);
+    color: rgb(114, 38, 38);
+    margin-top: 20px;
+}
+#container span {
+    font-size: 20px;
+}
